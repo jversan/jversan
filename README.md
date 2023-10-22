@@ -15,11 +15,8 @@
 ### Contacto
 - **Email:** jose.a271997@gmail.com
 - **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
-- **GitHub:** [Tu Perfil de GitHub](URL)
 
 ¡Estoy emocionado por aprender nuevas tecnologías y colaborar en proyectos emocionantes!
-
-[![Ícono de GitHub](URL de tu imagen de perfil de GitHub)](Enlace a tu perfil de GitHub)
 
 ### 🇬🇧
 
@@ -27,7 +24,7 @@
 ## Web Application Development Student
 
 ### About Me
-Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-mode **Web Application Development** higher education program. My goal is to learn and grow as a software developer, and I love working with modern web technologies.
+Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-mode **Web Application Development** higher education program. My goal is to learn and grow as a software developer, and I love working with modern web technologies. 🌍
 
 ### Technologies
 - **Programming Languages:** Java, JavaScript, PHP
@@ -39,11 +36,8 @@ Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-
 ### Contact
 - **Email:** jose.a271997@gmail.com
 - **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
-- **GitHub:** [Your GitHub Profile](URL)
 
 I'm excited to learn new technologies and collaborate on exciting projects!
-
-[![GitHub Icon](URL of your GitHub profile picture)](Link to your GitHub profile)
 
 ### 🇫🇷
 
@@ -63,11 +57,8 @@ Bonjour ! Je m'appelle José Antonio, et je suis actuellement en deuxième anné
 ### Contact
 - **Email:** jose.a271997@gmail.com
 - **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
-- **GitHub:** [Votre Profil GitHub](URL)
 
 Je suis enthousiaste à l'idée d'apprendre de nouvelles technologies et de collaborer sur des projets passionnants !
-
-[![Icône GitHub](URL de votre photo de profil GitHub)](Lien vers votre profil GitHub)
 
 
 <!--
