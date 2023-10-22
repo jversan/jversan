@@ -1,9 +1,9 @@
-### :es:
+### 🇪🇸
 # José Antonio Vergara Sánchez 
 ## Estudiante de Desarrollo de Aplicaciones Web 👨‍💻
 
 ### Acerca de mí
-¡Hola! Mi nombre es Jose Antonio, actualmente me encuentro estudiando el segundo año del ciclo formativo de grado superior de **Desarrollo de Aplicaciones Web** en modalidad **dual**. Mi objetivo es aprender y crecer como desarrollador de software, y me encanta trabajar con tecnologías web modernas.
+¡Hola! Mi nombre es Jose Antonio, actualmente me encuentro estudiando el segundo año del ciclo formativo de grado superior de **Desarrollo de Aplicaciones Web** en modalidad **dual**. Mi objetivo es aprender y crecer como desarrollador de software y me encanta trabajar con tecnologías web modernas.
 
 ### Tecnologías
 - **Lenguajes de Programación:** Java, JavaScript, PHP
@@ -17,6 +17,7 @@
 - **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
 
 ¡Estoy emocionado por aprender nuevas tecnologías y colaborar en proyectos emocionantes!
+
 
 ### 🇬🇧
 
