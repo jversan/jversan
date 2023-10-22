@@ -1,6 +1,6 @@
-🇪🇸
-# José Antonio Vergara Sánchez
-## Estudiante de Desarrollo de Aplicaciones Web
+### :es:
+# José Antonio Vergara Sánchez 
+## Estudiante de Desarrollo de Aplicaciones Web 👨‍💻
 
 ### Acerca de mí
 ¡Hola! Mi nombre es Jose Antonio, actualmente me encuentro estudiando el segundo año del ciclo formativo de grado superior de **Desarrollo de Aplicaciones Web** en modalidad **dual**. Mi objetivo es aprender y crecer como desarrollador de software, y me encanta trabajar con tecnologías web modernas.
@@ -21,10 +21,10 @@
 ### 🇬🇧
 
 # [Jose Antonio Vergara Sanchez]
-## Web Application Development Student
+## Web Application Development Student 👨‍💻
 
 ### About Me
-Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-mode **Web Application Development** higher education program. My goal is to learn and grow as a software developer, and I love working with modern web technologies. 🌍
+Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-mode **Web Application Development** higher education program. My goal is to learn and grow as a software developer, and I love working with modern web technologies.
 
 ### Technologies
 - **Programming Languages:** Java, JavaScript, PHP
@@ -42,7 +42,7 @@ I'm excited to learn new technologies and collaborate on exciting projects!
 ### 🇫🇷
 
 # [José Antonio Vergara Sánchez]
-## Étudiant en Développement d'Applications Web
+## Étudiant en Développement d'Applications Web 👨‍💻
 
 ### À propos de moi
 Bonjour ! Je m'appelle José Antonio, et je suis actuellement en deuxième année du programme d'enseignement supérieur en développement d'applications web en mode **double formation**. Mon objectif est d'apprendre et de progresser en tant que développeur de logiciels, et j'adore travailler avec les technologies web modernes.
