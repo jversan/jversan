@@ -1,5 +1,5 @@
 🇪🇸
-# [José Antonio Vergara Sánchez]
+# José Antonio Vergara Sánchez
 ## Estudiante de Desarrollo de Aplicaciones Web
 
 ### Acerca de mí
@@ -14,7 +14,7 @@
 
 ### Contacto
 - **Email:** jose.a271997@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](URL)
+- **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
 - **GitHub:** [Tu Perfil de GitHub](URL)
 
 ¡Estoy emocionado por aprender nuevas tecnologías y colaborar en proyectos emocionantes!
@@ -38,7 +38,7 @@ Hello! My name is Jose Antonio, and I'm currently in my second year of the dual-
 
 ### Contact
 - **Email:** jose.a271997@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](URL)
+- **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
 - **GitHub:** [Your GitHub Profile](URL)
 
 I'm excited to learn new technologies and collaborate on exciting projects!
@@ -62,7 +62,7 @@ Bonjour ! Je m'appelle José Antonio, et je suis actuellement en deuxième anné
 
 ### Contact
 - **Email:** jose.a271997@gmail.com
-- **LinkedIn:** [Votre Profil LinkedIn](URL)
+- **LinkedIn:** [José Antonio Vergara Sánchez](https://www.linkedin.com/in/joseantoniovergarasanchez/)
 - **GitHub:** [Votre Profil GitHub](URL)
 
 Je suis enthousiaste à l'idée d'apprendre de nouvelles technologies et de collaborer sur des projets passionnants !
