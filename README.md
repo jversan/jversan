@@ -21,7 +21,7 @@
 
 ### 🇬🇧
 
-# [Jose Antonio Vergara Sanchez]
+# Jose Antonio Vergara Sanchez
 ## Web Application Development Student 👨‍💻
 
 ### About Me
@@ -42,7 +42,7 @@ I'm excited to learn new technologies and collaborate on exciting projects!
 
 ### 🇫🇷
 
-# [José Antonio Vergara Sánchez]
+# José Antonio Vergara Sánchez
 ## Étudiant en Développement d'Applications Web 👨‍💻
 
 ### À propos de moi
